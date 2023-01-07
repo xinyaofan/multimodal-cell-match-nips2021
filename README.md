@@ -8,7 +8,7 @@ and self-attention modules followed by multi-modal cross-attention modules.
 and cell types by 3x and 7x respectively on the testdata compared with baseline.
 
 
-check the [dataset] 
+check the [dataset](https://openproblems.bio/neurips_2021/)
 
 check the [slides](https://github.com/xinyaofan/multimodal-cell-match-nips2021/blob/main/slides_proposal/proposal_cpsc532s.pdf)
 check the [proposal](https://github.com/xinyaofan/multimodal-cell-match-nips2021/blob/main/slides_proposal/proposal_cpsc532s.pdf)
