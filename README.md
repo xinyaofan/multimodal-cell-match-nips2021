@@ -6,3 +6,6 @@ and self-attention modules followed by multi-modal cross-attention modules.
 - Fine-tuned and trained proposed network using semi-hard triplet loss on 63K+ cells with 120K+ features.
 - Decreased loss by 42% compared to baseline benchmark in test phase. Increased matching probability of individual cells
 and cell types by 3x and 7x respectively on the testdata compared with baseline.
+
+
+check the slides 
